@@ -1,0 +1,183 @@
+/*	Detail Color    	*/ 
+.vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-moreReplies:before, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before, .u-bgUserColorHover:hover, .u-bgUserColorHover:focus, .DirectMessage--sent .DirectMessage-message, .Button.Button--primary, .Button.Button--primary:visited, .ButtonGroup--primary>.Button, .ButtonGroup--primary>.Button:visited, .ButtonGroup--primary>.ButtonGroup>.Button:hover, .ButtonGroup--primary>.ButtonGroup>.Button:visited, .sticky-cta .comp-container button.yellow, .comp-wrapper.btn-container.primary button, .comp-container button, .account-container button, .SearchNavigation-canopy.u-bgUserColor, .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-menu .dropdown-link:hover, .dropdown-menu .dropdown-link:focus, .dropdown-menu .dropdown-link.is-focused, .dropdown-menu li:hover .dropdown-link, .dropdown-menu li:focus .dropdown-link, .dropdown-menu .typeahead-recent-search-item.selected, .dropdown-menu .typeahead-saved-search-item.selected, .dropdown-menu .selected a, .dropdown-menu .dropdown-link.selected, .u-dropdownUserColor > li:hover, .u-dropdownUserColor > li:focus, .u-dropdownUserColor > li > button:hover, .u-dropdownUserColor > li > button:focus, .primary-btn:hover, .hovercard.profile-card .ProfileCard-content .FollowStatus, .TweetImpressionsModule-organic, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus, #tweet-activity-container .nav-pills a:hover, .main-page-header, .LayoutServiceContainer .Button.Button--primary, .PageHeader, .ep-Signup .ep-SignupButton, .ep-Signup .ep-RefreshButton, .ep-Signup .ep-InlineSignupButton, .ep-Signup .ep-AdsPolicyButton, .PromptbirdPrompt .primary-btn, .LiveVideoPlayer-liveBadge, .TwitterCard .Button--smallGray, .TwitterCard .Button--smallGray:not([disabled]):hover, .TwitterCard .Button--smallGray:not([disabled]):focus, .Banner--aboveNav, .EdgeButton--primary, #global-new-tweet-button.EdgeButton--primary, .EdgeButton--primary:hover, #global-new-tweet-button.EdgeButton--primary:hover, .EdgeButton--tertiary, .EdgeButton--secondary, .DirectMessage--sent .DirectMessage-text, ._1wmatVSh, ._1rmOI-BQ ._29kyA7wX, .SpbPGaHr, .SpbPGaHr:hover, .SpbPGaHr:focus, .SpbPGaHr:active, ._2Rz0TobF, ._2Rz0TobF:hover, ._2Rz0TobF:focus, ._2Rz0TobF:active, .global-nav .people .count .count-inner{
+    background: #f44336 !important;
+}
+.vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-moreReplies:before, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before, #global-actions > li > a, .AdaptiveFiltersBar-item:hover, .AdaptiveFiltersBar-item.is-selected, .MomentGuideNavigation-item:hover, .MomentGuideNavigation-item.is-active, li.SharedNavBar-navItem .SharedNavBar-textButton:hover, li.SharedNavBar-navItem > a:hover, .is-active .u-borderUserColor, .u-borderUserColor:hover, .u-borderUserColor:focus, ._1IYhfl3z:hover:not(.rqbvPe2P), ._1IYhfl3z:focus:not(.rqbvPe2P), ._1IYhfl3z:active:not(.rqbvPe2P), .rqbvPe2P, .rqbvPe2P:after, .AdaptiveFiltersBar-item, .MomentGuideNavigation-item, li.SharedNavBar-navItem .SharedNavBar-textButton, li.SharedNavBar-navItem > a, .u-borderUserColor, ._1IYhfl3z, .Caret--right:before, .Caret--right.Caret--stroked:after, .vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation--loneTweet:after, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-moreReplies:before, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before, .mini-avatar-with-thread:before, .permalink.self-thread-permalink-with-descendant .permalink-tweet-container:after, .permalink.self-thread-permalink-with-descendant .inline-reply-tweetbox-container:after{
+    border-color: #f44336 !important;
+}
+a, a:hover, a:focus, a:active, #global-actions .new:before, ._3ZSf8YGw, ._2phkKrpG .stream-item-header strong, .Icon--verified, .module .fullname, #profile-hover-container .fullname, #global-actions .new:before, #global-actions .new:before, ._3ZSf8YGw, ._2phkKrpG, .QuoteTweet-fullname, .DMInboxItem-title .fullname, .ActivityItem-displayText strong, .NotificationsSettingsButton, .ProfileCard-content .fullname, .PermalinkOverlay-content strong, .ProfileCardMini-details .fullname, ._2d_dX71I, ._2d_dX71I:hover, ._2d_dX71I:focus, ._2d_dX71I:active, ._1bfO1A1D .Fe7ul3Lt._2DggF3sL, b.link-complex-target, .nbfc a, .FullNameGroup strong, ._13Jmyrbo, .TweetImpressionsModule-analyticsLink a, .control-group a, .subheader a, .fine-print a, .app strong, .AdaptiveMedia-container .fullname, .tweet-box a, ._3jSuHAjn{
+    color: #f44336 !important;
+}
+
+time, time a, .stream-item-header span:not(.Icon), .Icon--verified:before, .top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box, .icon-btn, .ProfileTweet-actionList .ProfileTweet-actionCount, .tweet > .context span, .tweet > .context b, .tweet > .context div, ._2aJN3Fhd, ._34Ymm628:not(._3ZSf8YGw), ._3VMzp5Wb, .q7mpYjI0, ._2lr8ULQi, ._2cGZSF5M, .ReplyingToContextBelowAuthor, .ReplyingToContextBelowAuthor span, .ReplyingToContextBelowAuthor b, .Icon--protected:before, ._3EJ3rVPs, ._timestamp, .Icon--smiley, .Icon.Icon--gif, .SummaryCard-destination, .MomentsGuidePage-content span, .txt-mute, .nbfc, .tweet-form .reply-users, .Icon--geo, .tweet-counter, .DMActivity-container .username, .PermalinkOverlay-content .username, .media-tagging-block a, .media-tagging-block, .PlayableMedia-description, .PlayableMedia--vine .PlayableMedia-externalUrl, .TwitterCard .PollXChoice-footer, .AdaptiveNewsHeadlineDetails-date, .AdaptiveNewsHeadlineDetails-date:focus, .AdaptiveNewsHeadlineDetails-date:hover, .app .creator, g, .ProfileTweet-actionButton, .ProfileTweet-actionButtonUndo{
+    color: #a4a4a4 !important;
+}
+
+.follow-text, .EdgeButton--secondary, .EdgeButton--secondary:hover, .EdgeButton--secondary:focus, .EdgeButton--secondary:active, .EdgeButton--primary, .button-text, ._2Rz0TobF, ._2Rz0TobF:hover, ._2Rz0TobF:focus, ._2Rz0TobF:active, .global-dm-nav .dm-new, .global-nav .people .count{
+    color: #222 !important;
+    font-weight: 500 !important;
+}
+
+/*	Header Color   	*/
+.global-nav-inner, .AdaptiveFiltersBar, .MomentGuideNavigation, .SharedNavBar--ads, .comp-wrapper.sticky-cta.align-right, .jobs-search-nav-sticky, footer.nav-footer, .footer-bottom, div.Navigation, footer.Footer, .header-nav, header.Header, .ProfileCanopy-navBar, #message-drawer.alert-messages .message, .SharedNavBar--analytics, .ProfileHeader, .u-bgUserColor, .u-bgUserColorHover:hover, .u-bgUserColorHover:focus, .DMNotice, .app-content, .column-header, .column-header-temp, .app-header, .column-nav-item, .app-navigator, .app-title, .app-search-input, .app-search-fake, .prf-meta, .Momentsnav.Momentsnav--sticky, .TwitterCard .Button--smallGray, ._1d_6kzhv, ._24u5-vsm, ._3cKAE7hX, ._2jEwv4_q, ._1YVNMg8K ._29kyA7wX, ._1_FMKzvm, .yY8bJa97, .global-dm-nav .dm-new, .global-nav .people .count, #settings_nav.module, ._2Ad_SH-7, ._3rF86cXC, ._3THoPquW, nav, header > div, .kHlKyFGV._3hdqTVua > div > .kHlKyFGV > div > div:first-child, .rn-44z8sh{
+    background-color: #222222 !important;
+}
+
+/*	Background Color  	*/
+body[dir="ltr"], .page-container, .column, .FollowStatus, #page-container.AppContent, main > div{
+    background: /* url("https://pbs.twimg.com")*/ no-repeat center center fixed !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+    background-color: #222222 !important;
+}
+/*	Card Color   	*/
+.DashboardProfileCard, .Trends, .module .flex-module:not(.trends-container), .WhoToFollow, .SidebarFilterModule, .ProfileCard, .hovercard .arrow, .AdaptiveRelatedSearches, .ListCreationModule, .AdaptiveNewsLargeImageHeadline-body, .hovercard.gravity-south:not(.with-banner) .arrow, .ProfileSidebar .ProfileLifelineInfo, .ProfileSidebar .RelatedUsers, .PromptbirdPrompt, .AdaptiveNewsRelatedHeadlines, ._1feOwp3D, .Gallery.with-tweet .GalleryTweet .content>*, .GalleryTweet.with-hover, .GalleryTweet, .Gallery-content{
+    background-color: #222222 /*rgba(0, 0, 255, 0.3)*/ !important;
+}
+/*	Window Color   	*/
+.modal-header, .DMActivity-header, .DMPopover-content, .DirectMessage--received .DirectMessage-message, .dropdown-menu, .LayoutServiceContainer .Dropdown, a.Button.Button--loadMore, .timeline-Widget, .breadcrumbs, #left-nav-menu.left-navigation.panel.panel-default, header.panel-heading, ul.js-nav-links > li > a.js-nav, .field-highlight, .alert, .notifications-prompt-container, .DMInboxItem:hover, .no-js > body, .mdl, .release-notes, .bg-seamful-faint-gray, .popover, .hover-bg-r-faint-blue:hover, .hover-bg-r-faint-blue:focus, .column-options .button-tray, .DirectMessage--received .DirectMessage-text, .DMTokenizedMultiselectSuggestion.is-highlighted{
+    background-color: #222222 !important;
+}
+
+.modal-content, .DMActivity-body, .u-bgUserColorLightest, .page-container .onboarding .onboarding-selectors .country-dropdown, .page-container .onboarding .onboarding-selectors .timezone-dropdown, .ShortNavBarMode, .container.topc, #page-wrapper, .comp-wrapper.billboard.no-img.align-center.background-white.text-blue, .container.account.card.comp-wrapper, #stickySearchForm .title, .copy-container.t-row, article#main-content.Content, div.Page.Page--canopy.Page--basicStyles.Page--about.Page--about--products, .SystemBlock.d-block.d-block-feature-mobile-product.g-mobile-product-landing-promo, .Page--blog section, div.List.List--browser.List--browser--date div, div.List.List--browser.List--browser--date ol > li, .comp-container input, body.article, .Page.Page--canopy.is-narrow.Page--basicStyles.Page--about section, #home-search > .search-bar, #home-search > .search-bar > input#search-input, main, section.new-features, div.Page, .u-bgUserColorLighter, .BirthdateSelect-button, #global-tweet-dialog .modal-tweet-form-container, option, .EmbeddedTweet, .home-group-header, ul.js-nav-links > li.active > a.js-nav, ul.js-nav-links > li > a.js-nav:hover, .content-header .header-inner, .content-no-header .no-header-inner, .content-inner, #notifications-optout-all-top, .find-friends-top-subheader, .find-friends-bottom-subheader, .find-friends-sources, .MutedKeywordsFooter, .permalink-tweet, .permalink-tweet:hover, .inline-reply-tweetbox, .permalink .stream-item:not(.no-header-background-module), li.ThreadedConversation-moreReplies, .permalink.light-inline-actions.stream-uncapped, .PermalinkOverlay-spinnerContainer, .mdl-col-settings, .lst-group .selected, .list-link:hover:hover, .list-twitter-list:hover:hover, .list-subtitle:hover:hover, .list-account:hover:hover, .list-listmember:hover:hover, .list-link:hover:focus, .list-twitter-list:hover:focus, .list-subtitle:hover:focus, .list-account:hover:focus, .list-listmember:hover:focus, .list-link:hover:active, .list-twitter-list:hover:active, .list-subtitle:hover:active, .list-account:hover:active, .list-listmember:hover:active, .list-account:hover:hover, .list-account:hover:focus, .list-account:hover:active, .list-listaccount:hover:hover, .list-listaccount:hover:focus, .list-listaccount:hover:active, .list-subtitle:hover:hover, .list-subtitle:hover:focus, .list-subtitle:hover:active, .btn[disabled], .btn[disabled]:hover, .btn[disabled]:active, .btn.is-disabled, .btn.is-disabled:hover, .btn.is-disabled:focus, .btn.is-disabled:active, .text-like-keyboard-key, .bg-seamful-faded-gray, .column-options, .is-options-open .column-settings-link, .facet-type.is-active, .dropdown-menu li > a:hover, .DMButtonBar, .Gallery.with-tweet .Gallery-content:hover .GalleryTweet.enable-fade .tweet{
+    background-color:  #222222 !important;
+}
+
+/*	Borders & Shadows	*/
+hr, .DashboardProfileCard, .DashboardProfileCard-bg, .Trends, .module .flex-module, .global-nav .search-input, .btn, .stream-item:not(.no-header-background-module), .top-timeline-tweetbox .timeline-tweet-box, .tweet-box textarea:focus, .tweet-box input[type=text], .currently-dragging .tweet-form.is-droppable .tweet-drag-help, .tweet-box[contenteditable="true"]:focus, .RichEditor.is-fakeFocus, .RichEditor.is-fakeFocus ~ .TweetBoxAttachments, .RichEditor, .TweetBoxAttachments, .TwitterCard-container--clickable, .TwitterCard-container--clickable:hover, .TwitterCard .SummaryCard--small .SummaryCard-image, .tweet-btn, .tweet-btn:focus, .WhoToFollow, .SidebarFilterModule, .AdaptiveSearchTimeline .stream .stream-item:first-child, .ProfileCard, .ProfileCard-bg, .stream-end-item, .stream-end, .stream-loading, .stream-placeholder, .AdaptiveRelatedSearches, .content-header, .content-no-header, #global-tweet-dialog .modal-header, .DMActivity-header, .DMConversation-composer, .u-borderUserColorLighter, .EmojiPicker-categoryColumn, .EmojiPicker-content div, .EmojiPicker-categoryHeader, input, input:focus, textarea:focus, div[contenteditable="true"]:focus, div[contenteditable="true"].fake-focus, div[contenteditable="plaintext-only"]:focus, div[contenteditable="plaintext-only"].fake-focus, .FoundMediaSearch-query, .FoundMediaSearch-focusable, form div, .page-container .onboarding .onboarding-selectors .country-dropdown, .page-container .onboarding .onboarding-selectors .timezone-dropdown, .Button.Button--primary, .Button.Button--primary:visited, .ButtonGroup--primary>.Button, .ButtonGroup--primary>.Button:visited, .ButtonGroup--primary>.ButtonGroup>.Button, .ButtonGroup--primary>.ButtonGroup>.Button:visited, .comp-wrapper.btn-container.primary button, .comp-container button, .account-container button, .Page.Page--basicStyles.Page--blog .Pagination.Pagination--loadMore .Button.Button--loadMore, .nav-footer, .comp-container input, #left-nav-menu.left-navigation.panel.panel-default, #home-search > .search-bar > input#search-input, .ProfileHeading-content, .ListCreationModule, .ProfileListItem, .ProfileListsTimeline .GridTimeline-items.has-items, .ProfileCanopy-avatar > div, .stream-item+.stream-item.separated-module:not(.no-header-background-module), .stream-item.separated-module+.stream-item:not(.no-header-background-module), .PromptbirdPrompt-streamItem.separated-module+.stream-item:not(.no-header-background-module), img.DashboardProfileCard-avatarImage, .modal-header, .EmbeddedTweet--mediaForward .EmbeddedTweet-tweet, .SharedNavBar--analytics, ul.js-nav-links > li > a.js-nav, .content-inner, .content-header .header-inner, .content-no-header .no-header-inner, .MutedKeywordsFooter, .permalink .inline-reply-tweetbox, .tweet .stats, .permalink .stats .avatar-row a:first-child, .primary-btn, .following.first-hover .follow-btn:hover, .following .follow-btn, .following .follow-button.cancel-hover-style:hover, .following .follow-button, .notifying .device-follow-button, .button-group-item .content.selected, .caution-btn, .caution-btn:hover, .caution-btn:focus, .following .follow-btn:hover, .following .follow-button:hover, .primary-btn:focus, .primary-btn.focus, .following .follow-btn:focus, .following .follow-button:focus, .notifying .device-follow-button:focus, .button-group-item .content.selected:focus, .btn:hover, .follow-combo.open .btn-user-actions, .dropdown.open .user-dropdown, .hovercard.profile-card .ProfileCard-avatarImage, button.secondary.white, .dropdown.closed .title, .dropdown .title, .dropdown.closed .title:hover, .dropdown.closed .title:focus, .jobs-search-nav.sticky, .PageHeader, input, textarea, div[contenteditable], .t1-select, .content-inner.no-stream-end, .dropdown-divider, .u-borderUserColorLighter, .modal-footer, #notifications-optout-all-top, .find-friends-list li, .primary-btn:hover, .AdaptiveNewsLargeImageHeadline-body, .wtf-module .import-prompt .cta, .plain-btn:focus, .plain-btn.focus, .plain-btn.active, .plain-btn:active, .plain-btn.open, .dropdown.open .user-dropdown.plain-btn, .open>.plain-btn, .caution-btn, .caution-btn:hover, .caution-btn:focus, .following .follow-btn:hover, .following .follow-button:hover, .btn:hover, .follow-combo.open .btn-user-actions, .dropdown.open .user-dropdown, .primary-btn, .following.first-hover .follow-btn:hover, .following .follow-btn, .following .follow-button.cancel-hover-style:hover, .following .follow-button, .notifying .device-follow-button, .button-group-item .content.selected, .ActivityItem, .ProfileSidebar .TweetImpressionsModule, .ProfileSidebar .ProfileLifelineInfo, .ProfileSidebar .RelatedUsers, .main-page-header, div.notification-bar div.message, .Button, .Button:visited, .Button.is-visited, .PageHeader, .page-container, .mact-partner-box .mact-partner-logo, .ep-Header, .ep-Signup .ep-SignupButton, .ep-Signup .ep-RefreshButton, .ep-Signup .ep-InlineSignupButton, .ep-Signup .ep-AdsPolicyButton, .column-header, .mdl-content, .mdl-col-settings, select, .btn[disabled], .btn[disabled]:hover, .btn[disabled]:active, .btn.is-disabled, .btn.is-disabled:hover, .btn.is-disabled:focus, .btn.is-disabled:active, .text-like-keyboard-key, .mdl-header-divider, .drawer-header, .prf-meta, .prf-stats li+li a, .prf .lst-profile a, .column-options .button-tray, .with-column-divider-bottom, .facet-type, .is-options-open .column-settings-link, .PromptbirdPrompt--inline, .PromptbirdPrompt--inlinePointer, .LiveVideoShareButton--blue, .LiveVideoOfficialAccount-card, .LiveVideoPage .LiveVideo-tweetBox, .TwitterCard .Button--smallGray, .TwitterCard .Button--smallGray:not([disabled]):hover, .TwitterCard .Button--smallGray:not([disabled]):focus, .TwitterCard .Button--smallGray:not([disabled]):active, .tweet-form .thumbnail-container, .ComposerThumbnail, .EdgeButton--secondary:active, #global-new-tweet-button.EdgeButton--secondary:active, .EdgeButton--secondary, #global-new-tweet-button.EdgeButton--secondary, .EdgeButton--secondary, .wtf-module .import-prompt .service, .EdgeButton--primary:hover, #global-new-tweet-button.EdgeButton--primary:hover, .EdgeButton--primary, .EdgeButton--primary:focus, #global-new-tweet-button.EdgeButton--primary:focus, .u-borderUserColorLight, .u-borderUserColorLightFocus:focus, .u-borderUserColorLightHover:hover, .u-borderUserColorLightHover:focus, .Button, .Button.is-visited, .Button:visited, .EdgeButton--tertiary, .EdgeButton--secondary, .RichEditor, .ThreadedConversation-showMoreThreads, .Tombstone, ._3QPrjhX2, ._15-p_S0N,
+ ._3Ko_vUO1, ._1Yv_hemU, ._3DRCrDG0, ._1_FMKzvm, .AdaptiveNewsTextHeadline-body, .AdaptiveNewsRelatedHeadlines, .topbar, ._2d_dX71I, ._2d_dX71I:hover, ._2d_dX71I:focus, ._2d_dX71I:active, ._1feOwp3D, .TokenizedMultiselect-inputContainer, .DMTokenizedMultiselectSuggestion.is-highlighted, .wtf-module .UserSmallListItem, .TwitterCard-container, ._2Ad_SH-7, ._2Rz0TobF, .stream-item-footer, .PromptbirdPrompt--aboveTimeline{
+    border-color: #3e3e3e !important;
+     border-radius: 0px !important;
+}
+
+.PollXChoice-choice--radio{
+    border-color: #a4a4a4 !important;
+}
+.DMActivity-footer, .ProfileCanopy-avatar > div, .ProfileCanopy-navBar, .global-nav-inner, .caret-inner, #settings_nav.module{
+    border-color: #222222 !important;
+}
+.HzcIznt6{
+    border-color: #222222 !important;
+}
+
+/*	Round Edges	*/
+.DashboardProfileCard, .Trends, .roaming-module:not(.trends-container), .WhoToFollow, .SidebarFilterModule, .ProfileCard, .AdaptiveRelatedSearches, .ListCreationModule, .SummaryCard-image > div, button, .js-prompt-layout-content > div, .AdaptiveNewsRelatedHeadlines, .MomentsGuidePage-content a:-webkit-any-link, .MomentCapsuleSummary-cover, .MomentMediaItem, #settings_nav.module, .AdaptiveNewsLargeImageHeadline {
+    border-radius: 0px !important;
+}
+.bg-r-white{
+    border-radius: 0px !important;
+}
+#settings_nav li a{
+    border-radius: 5px 0px 0px 5px !important;
+}
+.ProfileHeading-content{
+    border-radius: 5px 5px 0px 0px !important;
+}
+body.ProfilePage .AppContent-main > .Grid.Grid--withGutter > .Grid-cell.u-size1of3.u-lg-size1of4{
+    border-radius: 0px 0px 5px 5px !important;
+}
+
+body {
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #222 !important;
+}
+.DashboardProfileCard {
+    border: 1px solid #3e3e3e;
+    background: #222;
+}
+.DashboardProfileCard-avatarImage {
+    border-radius: 0;
+    height: 72px;
+    width: 72px;
+    border: 2px solid #3e3e3e;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+}
+.Trends {
+    background-color: #222;
+    background-clip: inherit;
+    border: 1px solid #3e3e3e;
+    line-height: inherit;
+    padding: 15px;
+}
+.home-tweet-box, .LiveVideo-tweetBox, .RetweetDialog-commentBox {
+    background-color: #222;
+}
+.top-timeline-tweetbox .timeline-tweet-box {
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+    border: 1px solid #3e3e3e;
+}
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+    color: #f44336;
+    background-color: #222 !important;
+}
+.new-tweets-bar:hover {
+    background-color: #222;
+    border: 1px solid #3e3e3e;
+}
+.new-tweets-bar {
+    background-color: #222;
+    border: 1px solid #3e3e3e;
+}
+.stream-item:not(.no-header-background-module) {
+    background: #222;
+        background-clip: border-box;
+    border-left: 1px solid #3e3e3e;
+    border-right: 1px solid #3e3e3e;
+}
+.conversation-module .conversation-tweet-item .tweet:hover {
+    background-color: #222;
+    border: 1px solid #3e3e3e;
+}
+.tweet:hover {
+    background-color: #222;
+    border: 1px solid #3e3e3e;
+}
+.global-nav .search-input {
+    background-color: #222;
+    border-radius: 0px;
+    border: 1px solid #3e3e3e;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    height: 32px;
+    line-height: 16px;
+    padding: 8px 32px 8px 12px;
+    transition: all .2s ease-in-out;
+    width: 100%;
+}
+ol, ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    background-color: #222;
+}
+
+.ProfileAvatar-image, .ProfileAvatar-placeholderImage {
+    -moz-force-broken-image-icon: 1;
+    border-radius: 0px;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.ProfileNav-item--userActions {
+    background-color: #222;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 59px;
+    padding: 12px 0 0 2px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
