@@ -1,3 +1,39 @@
+/*fixes */
+.ProfileHeaderCard-bio {
+    color: #a4a4a4;
+}
+.ProfileHeading-toggleItem.is-active, .ProfileHeading-toggleItem.is-active:hover, .ProfileHeading-toggleItem.is-active:focus {
+    color: #a4a4a4;
+    cursor: default;
+    font-weight: bold;
+}
+.ProfileSidebar .flex-module-header h3 {
+    color: #a4a4a4;
+}
+.flex-module-header h3 {
+    color: #a4a4a4;
+    font-size: 18px;
+    font-weight: bold;
+}
+.permalink .inline-reply-tweetbox-container {
+    position: relative;
+    background-color: #222;
+    border-radius: 0 0 5px 5px;
+}
+.btn:hover, .dropdown.open .user-dropdown {
+    color: #14171a;
+    text-decoration: none;
+    background-color: #222;
+    background-image: none;
+    border-color: #222 !important;
+}
+.btn, .dropdown.open .user-dropdown {
+    color: #14171a;
+    text-decoration: none;
+    background-color: #222;
+    background-image: none;
+    border-color: #222 !important;
+}
 /*	Detail Color    	*/ 
 .vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-moreReplies:before, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before, .u-bgUserColorHover:hover, .u-bgUserColorHover:focus, .DirectMessage--sent .DirectMessage-message, .Button.Button--primary, .Button.Button--primary:visited, .ButtonGroup--primary>.Button, .ButtonGroup--primary>.Button:visited, .ButtonGroup--primary>.ButtonGroup>.Button:hover, .ButtonGroup--primary>.ButtonGroup>.Button:visited, .sticky-cta .comp-container button.yellow, .comp-wrapper.btn-container.primary button, .comp-container button, .account-container button, .SearchNavigation-canopy.u-bgUserColor, .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-menu .dropdown-link:hover, .dropdown-menu .dropdown-link:focus, .dropdown-menu .dropdown-link.is-focused, .dropdown-menu li:hover .dropdown-link, .dropdown-menu li:focus .dropdown-link, .dropdown-menu .typeahead-recent-search-item.selected, .dropdown-menu .typeahead-saved-search-item.selected, .dropdown-menu .selected a, .dropdown-menu .dropdown-link.selected, .u-dropdownUserColor > li:hover, .u-dropdownUserColor > li:focus, .u-dropdownUserColor > li > button:hover, .u-dropdownUserColor > li > button:focus, .primary-btn:hover, .hovercard.profile-card .ProfileCard-content .FollowStatus, .TweetImpressionsModule-organic, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus, #tweet-activity-container .nav-pills a:hover, .main-page-header, .LayoutServiceContainer .Button.Button--primary, .PageHeader, .ep-Signup .ep-SignupButton, .ep-Signup .ep-RefreshButton, .ep-Signup .ep-InlineSignupButton, .ep-Signup .ep-AdsPolicyButton, .PromptbirdPrompt .primary-btn, .LiveVideoPlayer-liveBadge, .TwitterCard .Button--smallGray, .TwitterCard .Button--smallGray:not([disabled]):hover, .TwitterCard .Button--smallGray:not([disabled]):focus, .Banner--aboveNav, .EdgeButton--primary, #global-new-tweet-button.EdgeButton--primary, .EdgeButton--primary:hover, #global-new-tweet-button.EdgeButton--primary:hover, .EdgeButton--tertiary, .EdgeButton--secondary, .DirectMessage--sent .DirectMessage-text, ._1wmatVSh, ._1rmOI-BQ ._29kyA7wX, .SpbPGaHr, .SpbPGaHr:hover, .SpbPGaHr:focus, .SpbPGaHr:active, ._2Rz0TobF, ._2Rz0TobF:hover, ._2Rz0TobF:focus, ._2Rz0TobF:active, .global-nav .people .count .count-inner{
     background: #f44336 !important;
@@ -50,6 +86,7 @@ hr, .DashboardProfileCard, .DashboardProfileCard-bg, .Trends, .module .flex-modu
  ._3Ko_vUO1, ._1Yv_hemU, ._3DRCrDG0, ._1_FMKzvm, .AdaptiveNewsTextHeadline-body, .AdaptiveNewsRelatedHeadlines, .topbar, ._2d_dX71I, ._2d_dX71I:hover, ._2d_dX71I:focus, ._2d_dX71I:active, ._1feOwp3D, .TokenizedMultiselect-inputContainer, .DMTokenizedMultiselectSuggestion.is-highlighted, .wtf-module .UserSmallListItem, .TwitterCard-container, ._2Ad_SH-7, ._2Rz0TobF, .stream-item-footer, .PromptbirdPrompt--aboveTimeline{
     border-color: #3e3e3e !important;
      border-radius: 0px !important;
+     background-color: #222 !important
 }
 
 .PollXChoice-choice--radio{
