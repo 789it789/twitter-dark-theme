@@ -86,7 +86,7 @@ hr, .DashboardProfileCard, .DashboardProfileCard-bg, .Trends, .module .flex-modu
  ._3Ko_vUO1, ._1Yv_hemU, ._3DRCrDG0, ._1_FMKzvm, .AdaptiveNewsTextHeadline-body, .AdaptiveNewsRelatedHeadlines, .topbar, ._2d_dX71I, ._2d_dX71I:hover, ._2d_dX71I:focus, ._2d_dX71I:active, ._1feOwp3D, .TokenizedMultiselect-inputContainer, .DMTokenizedMultiselectSuggestion.is-highlighted, .wtf-module .UserSmallListItem, .TwitterCard-container, ._2Ad_SH-7, ._2Rz0TobF, .stream-item-footer, .PromptbirdPrompt--aboveTimeline{
     border-color: #3e3e3e !important;
      border-radius: 0px !important;
-     background-color: #222 !important
+     background-color: #222 !important;
      color: #a4a4a4 !important;
 }
 
