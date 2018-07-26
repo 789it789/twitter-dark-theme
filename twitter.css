@@ -87,6 +87,7 @@ hr, .DashboardProfileCard, .DashboardProfileCard-bg, .Trends, .module .flex-modu
     border-color: #3e3e3e !important;
      border-radius: 0px !important;
      background-color: #222 !important
+     color: #a4a4a4 !important;
 }
 
 .PollXChoice-choice--radio{
