@@ -1,4 +1,7 @@
 /*fixes */
+.QuoteTweet-text {
+    color: #a4a4a4 !important;
+}
 .ProfileHeaderCard-bio {
     color: #a4a4a4;
 }
