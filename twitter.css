@@ -28,6 +28,16 @@ StaticLoggedOutHomePage-cell {
         margin-top: 16px;
 }
 /*fixes */
+ProfileCard-bio {
+    color: #a4a4a4;
+    font-weight: normal;
+    word-wrap: break-word;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 1.375em;
+    height: 5.5em;
+    margin-top: 8px;
+}
 .SearchExtrasDropdown .dropdown-menu li > .SearchExtrasDropdown-target {
     color: #a4a4a4 !important;
     font-size: 14px;
