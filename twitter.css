@@ -28,6 +28,17 @@ StaticLoggedOutHomePage-cell {
         margin-top: 16px;
 }
 /*fixes */
+.DashUserDropdown.dropdown-menu .DashUserDropdown-userInfoLink:hover, .DashUserDropdown.dropdown-menu .DashUserDropdown-userInfoLink:focus, .DashUserDropdown.dropdown-menu .DashUserDropdown-userInfoLink:active {
+    background-color: #222 !important;
+    text-decoration: none;
+}
+.DashboardProfileCard-avatarLink{
+    background-color: #222 !important;
+}
+.stream-end-inner {
+    padding: 5px 50px;
+    background-color: #222;
+}
 .ProfileCard-bio {
     color: #a4a4a4;
     font-weight: normal;
