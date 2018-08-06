@@ -293,11 +293,12 @@ body {
 }
 .conversation-module .conversation-tweet-item .tweet:hover {
     background-color: #222;
-    border: 1px solid #3e3e3e;
+    border: 0px solid #3e3e3e;
 }
 .tweet:hover {
     background-color: #222;
-    border: 1px solid #3e3e3e;
+    border: 0px solid #3e3e3e;
+    border-bottom: 1px solid #3e3e3e;
 }
 .global-nav .search-input {
     background-color: #222;
