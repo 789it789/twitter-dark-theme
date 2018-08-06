@@ -1,3 +1,32 @@
+/*logout page*/
+StaticLoggedOutHomePage-cell {
+    background-color: #222;
+    color: #fff;
+}
+.StreamsFooter {
+    border-top: 0px;
+    padding: 11px 0;
+    position: fixed;
+    background-color: #222;
+    bottom: -10%;
+    width: 100%;
+    z-index: 2;
+}
+.StaticLoggedOutHomePage-communicationBlock {
+    background: #222;
+    overflow: hidden;
+    position: relative;
+}
+.StaticLoggedOutHomePage .StreamsFooter-list {
+    background: #222;
+}
+.StaticLoggedOutHomePage-signupSubtitle {
+    color: #a4a4a4;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 16px auto;
+        margin-top: 16px;
+}
 /*fixes */
 .SearchExtrasDropdown .dropdown-menu li > .SearchExtrasDropdown-target {
     color: #a4a4a4 !important;
