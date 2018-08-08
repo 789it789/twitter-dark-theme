@@ -28,6 +28,35 @@ StaticLoggedOutHomePage-cell {
         margin-top: 16px;
 }
 /*fixes */
+.TwitterCard .PollXChoice-optionContainer .PollXChoice-choice--text {
+    color: #fff;
+}
+.TwitterCard .PollXChoice-optionContainer .PollXChoice-choice--chart {
+    background: #3e3e3e;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    border-top-left-radius: .35714em;
+    border-bottom-left-radius: .35714em;
+    transition: all .3s cubic-bezier(0.5,1.2,.5,1.2);
+    opacity: 1;
+}
+.TwitterCard .SummaryCard-content .TwitterCard-title {
+    max-height: 1.3em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #fff;
+}
+.TwitterCard .SummaryCard--large:not([data-card-breakpoints~="w300"]) .SummaryCard-content p {
+    max-height: 1.3em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #a4a4a4;
+}
 .DashUserDropdown.dropdown-menu .DashUserDropdown-userInfoLink:hover, .DashUserDropdown.dropdown-menu .DashUserDropdown-userInfoLink:focus, .DashUserDropdown.dropdown-menu .DashUserDropdown-userInfoLink:active {
     background-color: #222 !important;
     text-decoration: none;
