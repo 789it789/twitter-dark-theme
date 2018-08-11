@@ -27,6 +27,23 @@
     background-color: #222;
 }
 /*fixes */
+.modal-body p {
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #a4a4a4;
+}
+.modal-header .modal-title {
+    width: 75%;
+    margin: 0 auto;
+    overflow: hidden;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    color: #fff !important;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
 .TwitterCard .PollXChoice-optionContainer .PollXChoice-choice--text {
     color: #fff;
 }
