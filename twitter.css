@@ -424,3 +424,8 @@ ol, ul {
     right: 0;
     top: 0;
 }
+.WtfLargeCarouselStreamItem-title {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
